@@ -1,0 +1,1 @@
+mysql -u root -proot hostnavi < "/docker-entrypoint-initdb.d/test-hostnavi.sql"
